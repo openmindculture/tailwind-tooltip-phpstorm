@@ -1,0 +1,2 @@
+@tailwind base;
+@tailwind components; /* autocomplete suggestion works, and no "unknown at-rule" once the plugin is activated */
